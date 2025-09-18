@@ -1,0 +1,146 @@
+2025/09/18-15:58:12.928 cdc Reusing MANIFEST C:\Users\DOGUKAN\Documents\MyProject\PycharmProjects\whatsappbot\Browser\profile_01\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/18-15:58:12.929 cdc Recovering log #2004
+2025/09/18-15:58:12.957 cdc Reusing old log C:\Users\DOGUKAN\Documents\MyProject\PycharmProjects\whatsappbot\Browser\profile_01\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002004.log 
+2025/09/18-15:58:13.809 cdc Compacting 1@1 + 13@2 files
+2025/09/18-15:58:13.865 cdc Generated table #2027@1: 73420 keys, 2237511 bytes
+2025/09/18-15:58:13.905 cdc Generated table #2028@1: 31511 keys, 2198331 bytes
+2025/09/18-15:58:13.928 cdc Generated table #2029@1: 3082 keys, 2165224 bytes
+2025/09/18-15:58:13.953 cdc Generated table #2030@1: 2698 keys, 2166545 bytes
+2025/09/18-15:58:13.976 cdc Generated table #2031@1: 2911 keys, 2158501 bytes
+2025/09/18-15:58:14.000 cdc Generated table #2032@1: 2898 keys, 2168599 bytes
+2025/09/18-15:58:14.025 cdc Generated table #2033@1: 2849 keys, 2166590 bytes
+2025/09/18-15:58:14.051 cdc Generated table #2034@1: 4650 keys, 2157914 bytes
+2025/09/18-15:58:14.074 cdc Generated table #2035@1: 3074 keys, 2151443 bytes
+2025/09/18-15:58:14.078 cdc Generated table #2036@1: 172 keys, 141051 bytes
+2025/09/18-15:58:14.078 cdc Compacted 1@1 + 13@2 files => 19711709 bytes
+2025/09/18-15:58:14.079 cdc compacted to: files[ 0 1 36 0 0 0 0 ]
+2025/09/18-15:58:14.080 cdc Delete type=2 #1799
+2025/09/18-15:58:14.081 cdc Delete type=2 #1800
+2025/09/18-15:58:14.081 cdc Delete type=2 #1801
+2025/09/18-15:58:14.081 cdc Delete type=2 #1802
+2025/09/18-15:58:14.081 cdc Delete type=2 #1803
+2025/09/18-15:58:14.081 cdc Delete type=2 #1804
+2025/09/18-15:58:14.081 cdc Delete type=2 #1805
+2025/09/18-15:58:14.081 cdc Delete type=2 #1843
+2025/09/18-15:58:14.081 cdc Delete type=2 #1851
+2025/09/18-15:58:14.081 cdc Delete type=2 #1917
+2025/09/18-15:58:14.081 cdc Delete type=2 #1952
+2025/09/18-15:58:14.081 cdc Delete type=2 #1953
+2025/09/18-15:58:14.082 cdc Delete type=2 #1959
+2025/09/18-15:58:14.082 cdc Delete type=2 #2006
+2025/09/18-15:58:14.349 3718 Level-0 table #2038: started
+2025/09/18-15:58:14.357 3718 Level-0 table #2038: 422143 bytes OK
+2025/09/18-15:58:14.358 3718 Delete type=0 #2004
+2025/09/18-15:58:14.359 3718 Manual compaction at level-0 from '\x00B\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00C\x00\x00\x00' @ 0 : 0; will stop at '\x00B\x00\x00\x05' @ 5941483 : 1
+2025/09/18-15:58:14.359 3718 Compacting 1@0 + 1@1 files
+2025/09/18-15:58:14.366 3718 Generated table #2039@0: 8205 keys, 72487 bytes
+2025/09/18-15:58:14.370 3718 Generated table #2040@0: 3427 keys, 124354 bytes
+2025/09/18-15:58:14.374 3718 Generated table #2041@0: 3474 keys, 69301 bytes
+2025/09/18-15:58:14.375 3718 Compacted 1@0 + 1@1 files => 266142 bytes
+2025/09/18-15:58:14.375 3718 compacted to: files[ 0 3 36 0 0 0 0 ]
+2025/09/18-15:58:14.376 3718 Delete type=2 #2038
+2025/09/18-15:58:14.376 3718 Manual compaction at level-0 from '\x00B\x00\x00\x05' @ 5941483 : 1 .. '\x00C\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/18-15:58:16.077 cdc Compacting 1@1 + 1@2 files
+2025/09/18-15:58:16.125 cdc Generated table #2042@1: 73482 keys, 2237385 bytes
+2025/09/18-15:58:16.126 cdc Generated table #2043@1: 4 keys, 2879 bytes
+2025/09/18-15:58:16.126 cdc Compacted 1@1 + 1@2 files => 2240264 bytes
+2025/09/18-15:58:16.127 cdc compacted to: files[ 0 2 37 0 0 0 0 ]
+2025/09/18-15:58:16.127 cdc Delete type=2 #1981
+2025/09/18-15:58:16.127 cdc Delete type=2 #2027
+2025/09/18-15:58:16.127 cdc Delete type=2 #2039
+2025/09/18-15:58:19.625 cdc Compacting 1@1 + 7@2 files
+2025/09/18-15:58:19.677 cdc Generated table #2044@1: 99345 keys, 2248823 bytes
+2025/09/18-15:58:19.728 cdc Generated table #2045@1: 98371 keys, 2246830 bytes
+2025/09/18-15:58:19.777 cdc Generated table #2046@1: 97667 keys, 2246905 bytes
+2025/09/18-15:58:19.827 cdc Generated table #2047@1: 98994 keys, 2249229 bytes
+2025/09/18-15:58:19.881 cdc Generated table #2048@1: 99521 keys, 2248377 bytes
+2025/09/18-15:58:19.902 cdc Generated table #2049@1: 37808 keys, 877486 bytes
+2025/09/18-15:58:19.902 cdc Compacted 1@1 + 7@2 files => 12117650 bytes
+2025/09/18-15:58:19.903 cdc compacted to: files[ 0 1 36 0 0 0 0 ]
+2025/09/18-15:58:19.903 cdc Delete type=2 #2019
+2025/09/18-15:58:19.903 cdc Delete type=2 #2020
+2025/09/18-15:58:19.903 cdc Delete type=2 #2021
+2025/09/18-15:58:19.903 cdc Delete type=2 #2022
+2025/09/18-15:58:19.903 cdc Delete type=2 #2023
+2025/09/18-15:58:19.903 cdc Delete type=2 #2024
+2025/09/18-15:58:19.903 cdc Delete type=2 #2025
+2025/09/18-15:58:19.904 cdc Delete type=2 #2041
+2025/09/18-15:58:20.644 72a0 Compacting 1@1 + 10@2 files
+2025/09/18-15:58:20.689 72a0 Generated table #2050@1: 9068 keys, 2136104 bytes
+2025/09/18-15:58:20.734 72a0 Generated table #2051@1: 8595 keys, 2131970 bytes
+2025/09/18-15:58:20.780 72a0 Generated table #2052@1: 8747 keys, 2131568 bytes
+2025/09/18-15:58:20.819 72a0 Generated table #2053@1: 9573 keys, 2131896 bytes
+2025/09/18-15:58:20.861 72a0 Generated table #2054@1: 58386 keys, 2194719 bytes
+2025/09/18-15:58:20.943 72a0 Generated table #2055@1: 105589 keys, 2256608 bytes
+2025/09/18-15:58:21.024 72a0 Generated table #2056@1: 100261 keys, 2248493 bytes
+2025/09/18-15:58:21.095 72a0 Generated table #2057@1: 99112 keys, 2249497 bytes
+2025/09/18-15:58:21.158 72a0 Generated table #2058@1: 99173 keys, 2248398 bytes
+2025/09/18-15:58:21.230 72a0 Generated table #2059@1: 97670 keys, 2246523 bytes
+2025/09/18-15:58:21.235 72a0 Generated table #2060@1: 5941 keys, 136375 bytes
+2025/09/18-15:58:21.235 72a0 Compacted 1@1 + 10@2 files => 22112151 bytes
+2025/09/18-15:58:21.235 72a0 compacted to: files[ 0 0 37 0 0 0 0 ]
+2025/09/18-15:58:21.236 72a0 Delete type=2 #2009
+2025/09/18-15:58:21.236 72a0 Delete type=2 #2010
+2025/09/18-15:58:21.236 72a0 Delete type=2 #2011
+2025/09/18-15:58:21.236 72a0 Delete type=2 #2012
+2025/09/18-15:58:21.236 72a0 Delete type=2 #2013
+2025/09/18-15:58:21.236 72a0 Delete type=2 #2014
+2025/09/18-15:58:21.236 72a0 Delete type=2 #2015
+2025/09/18-15:58:21.236 72a0 Delete type=2 #2016
+2025/09/18-15:58:21.236 72a0 Delete type=2 #2017
+2025/09/18-15:58:21.236 72a0 Delete type=2 #2018
+2025/09/18-15:58:21.236 72a0 Delete type=2 #2040
+2025/09/18-15:58:31.396 cdc Level-0 table #2062: started
+2025/09/18-15:58:31.420 cdc Level-0 table #2062: 1118894 bytes OK
+2025/09/18-15:58:31.421 cdc Delete type=0 #2037
+2025/09/18-15:58:32.422 834c Compacting 1@0 + 0@1 files
+2025/09/18-15:58:32.443 834c Generated table #2063@0: 22388 keys, 261847 bytes
+2025/09/18-15:58:32.452 834c Generated table #2064@0: 5504 keys, 229510 bytes
+2025/09/18-15:58:32.458 834c Generated table #2065@0: 8240 keys, 171234 bytes
+2025/09/18-15:58:32.458 834c Compacted 1@0 + 0@1 files => 662591 bytes
+2025/09/18-15:58:32.458 834c compacted to: files[ 0 3 37 0 0 0 0 ]
+2025/09/18-15:58:32.459 834c Delete type=2 #2062
+2025/09/18-15:58:33.478 cdc Compacting 1@1 + 10@2 files
+2025/09/18-15:58:33.525 cdc Generated table #2066@1: 33022 keys, 2253032 bytes
+2025/09/18-15:58:33.547 cdc Generated table #2067@1: 9068 keys, 2135567 bytes
+2025/09/18-15:58:33.570 cdc Generated table #2068@1: 8595 keys, 2131970 bytes
+2025/09/18-15:58:33.597 cdc Generated table #2069@1: 8747 keys, 2131568 bytes
+2025/09/18-15:58:33.619 cdc Generated table #2070@1: 9573 keys, 2131896 bytes
+2025/09/18-15:58:33.654 cdc Generated table #2071@1: 52453 keys, 2186637 bytes
+2025/09/18-15:58:33.727 cdc Generated table #2072@1: 106740 keys, 2259102 bytes
+2025/09/18-15:58:33.818 cdc Generated table #2073@1: 100425 keys, 2251322 bytes
+2025/09/18-15:58:33.919 cdc Generated table #2074@1: 99175 keys, 2249890 bytes
+2025/09/18-15:58:34.003 cdc Generated table #2075@1: 99313 keys, 2247231 bytes
+2025/09/18-15:58:34.015 cdc Generated table #2076@1: 9834 keys, 229182 bytes
+2025/09/18-15:58:34.015 cdc Compacted 1@1 + 10@2 files => 22207397 bytes
+2025/09/18-15:58:34.016 cdc compacted to: files[ 0 2 38 0 0 0 0 ]
+2025/09/18-15:58:34.017 cdc Delete type=2 #1997
+2025/09/18-15:58:34.017 cdc Delete type=2 #2050
+2025/09/18-15:58:34.017 cdc Delete type=2 #2051
+2025/09/18-15:58:34.017 cdc Delete type=2 #2052
+2025/09/18-15:58:34.017 cdc Delete type=2 #2053
+2025/09/18-15:58:34.018 cdc Delete type=2 #2054
+2025/09/18-15:58:34.018 cdc Delete type=2 #2055
+2025/09/18-15:58:34.018 cdc Delete type=2 #2056
+2025/09/18-15:58:34.018 cdc Delete type=2 #2057
+2025/09/18-15:58:34.018 cdc Delete type=2 #2058
+2025/09/18-15:58:34.018 cdc Delete type=2 #2064
+2025/09/18-15:58:34.502 cdc Compacting 1@1 + 8@2 files
+2025/09/18-15:58:34.620 cdc Generated table #2077@1: 97812 keys, 2246814 bytes
+2025/09/18-15:58:34.713 cdc Generated table #2078@1: 99253 keys, 2247343 bytes
+2025/09/18-15:58:34.804 cdc Generated table #2079@1: 98614 keys, 2246775 bytes
+2025/09/18-15:58:34.901 cdc Generated table #2080@1: 97829 keys, 2248424 bytes
+2025/09/18-15:58:34.985 cdc Generated table #2081@1: 98568 keys, 2246678 bytes
+2025/09/18-15:58:35.067 cdc Generated table #2082@1: 99819 keys, 2249861 bytes
+2025/09/18-15:58:35.103 cdc Generated table #2083@1: 51655 keys, 1192788 bytes
+2025/09/18-15:58:35.104 cdc Compacted 1@1 + 8@2 files => 14678683 bytes
+2025/09/18-15:58:35.104 cdc compacted to: files[ 0 1 37 0 0 0 0 ]
+2025/09/18-15:58:35.106 cdc Delete type=2 #2044
+2025/09/18-15:58:35.106 cdc Delete type=2 #2045
+2025/09/18-15:58:35.106 cdc Delete type=2 #2046
+2025/09/18-15:58:35.106 cdc Delete type=2 #2047
+2025/09/18-15:58:35.107 cdc Delete type=2 #2048
+2025/09/18-15:58:35.107 cdc Delete type=2 #2049
+2025/09/18-15:58:35.107 cdc Delete type=2 #2059
+2025/09/18-15:58:35.107 cdc Delete type=2 #2060
+2025/09/18-15:58:35.107 cdc Delete type=2 #2065

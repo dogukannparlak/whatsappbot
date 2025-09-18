@@ -1,0 +1,12 @@
+.venv/          # Virtual environment directory (do not commit)
+__pycache__/    # Python bytecode cache
+*.db            # Local DB files (e.g., wpbot.db)
+*.log           # Log files
+logs/           # Logs directory
+*.pyc           # Compiled Python bytecode
+*.pyo           # Optimized Python bytecode
+Browser/        # Chrome user profiles (contains personal QR login data)
+Browser/*/      # All profile directories under Browser/
+Browser/profile_*/ # Specific profile directories
+.env            # Environment variables (contains secrets)
+.env.*          # Variants like .env.local, .env.prod, etc.
