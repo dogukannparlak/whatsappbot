@@ -4,7 +4,6 @@ import time
 import re
 import datetime as dt
 from urllib.parse import unquote
-from flask import Flask, jsonify, request
 from flask import Flask, jsonify, request, url_for, send_from_directory
 
 import config
@@ -134,8 +133,6 @@ def _serialize_job(session, job: Job):
 # ---------------------------------------------------------------------
 # FLASK APPLICATION
 # ---------------------------------------------------------------------
-from flask import Flask, jsonify, request, url_for, send_from_directory
-# ... other imports (config, SessionLocal, Job, JobTarget, etc.)
 
 def create_app(shared_state) -> Flask:
     app = Flask(__name__)

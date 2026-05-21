@@ -45,7 +45,7 @@ DB_CHARSET = os.getenv("DB_CHARSET", "utf8mb4").strip()
 # Eksik bilgi kontrolü
 
 if not all([DB_HOSTNAME, DB_NAME, DB_USERNAME, DB_PASSWORD, DB_PORT]):
-    sys.exit("[HATA] Veritabanı bilgileri eksik! Lütfen .env dosyasındaki DB_HOSTNAME, DB_NAME, DB_USERNAME, DB_PASSWORD, DB_PORT alanlarını doldurun.")
+    sys.exit("[ERROR] Database settings missing. Fill DB_HOSTNAME, DB_NAME, DB_USERNAME, DB_PASSWORD, DB_PORT in .env.")
 
 DATABASE_URL = f"mysql+pymysql://{DB_USERNAME}:{DB_PASSWORD}@{DB_HOSTNAME}:{DB_PORT}/{DB_NAME}?charset={DB_CHARSET}"
 
